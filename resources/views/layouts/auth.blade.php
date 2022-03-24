@@ -82,7 +82,7 @@
         <div class="container">
             <div class="row">
                 <div class="copyright text-center">
-                    <p class="wow fadeInRight">Pokemon Discovery. {{ date('Y') }}. All Rights Reserved</p>
+                    <p class="fadeInRight">Pokemon Discovery. {{ date('Y') }}. All Rights Reserved</p>
                 </div>
             </div>
         </div>
