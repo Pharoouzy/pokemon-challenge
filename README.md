@@ -4,7 +4,7 @@
 This repository contains scripts that can be used to set up the Pokemon API.
 The API allows users to create multiple pokemons. It also allows users to send and receive money using their pokemon address. Users can top up their pokemons with this API.
 
-The API documentation is available [here](https://documenter.getpostman.com/view/7306778/UVsTqN2j).
+The API documentation is available [here](https://documenter.getpostman.com/view/7306778/UVz1MXMy).
 
 
 ## Prerequisites
@@ -84,6 +84,6 @@ $ php artisan test
 Below is a list of improvements I would like to make on this codebase:
 
 
-- #### Connecting to Pokemon API to fetch the Species details and to get a more descriptions
+- #### Connecting to Pokemon API to fetch the Species details and to get detailed descriptions
 - #### Complete the unit test and also write feature test
 - #### Create a separate app (a VueJs app) to consume the API

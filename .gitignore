@@ -14,3 +14,13 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+
+/docker
+/html
+supervisord.log
+supervisord.pid
+docker-compose.yml
+Dockerfile
+dump.rdb
+.DS_Store
+.dockerignore

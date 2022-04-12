@@ -25,7 +25,7 @@ class PokemonController extends Controller {
     }
 
     public function index() {
-        $pokemons = $this->pokemonService->getAll();
+        $pokemons = $this->pokemonService->getAll(12);
 
         return view('pages.home', compact('pokemons'));
     }
